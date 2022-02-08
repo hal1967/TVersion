@@ -5,9 +5,9 @@
 {             information. Bring 2 additional functions in order to          }
 {             get version info from exe file or resources                    }
 {                                                                            }
-{ Espa�ol     TVersion: registro para manejar la informacion de version de   }
-{             los archivos ejecutables. Adem�s un par de funciones para      }
-{             obtener esta infromacion via archivo de recuros y por          }
+{ Español     TVersion: registro para manejar la informacion de version de   }
+{             los archivos ejecutables. Además un par de funciones para      }
+{             obtener esta información vía archivo de recursos y por         }
 {             llamada al api de windows.                                     }
 {                                                                            }
 { Language:   Delphi version XE2 or later                                    }
@@ -275,7 +275,5 @@ begin
     m.Free;
   end;
 end;
-
-
 
 end.
