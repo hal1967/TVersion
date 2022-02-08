@@ -25,4 +25,6 @@ Credits (Thanks):
                      how-to-determine-delphi-application-version/1720501   
                                                                            
                                                                            
-                                                                           
+Spanish
+
+Esto es parte de un artículo docente escrito en https://www.gavidia.org/tversion-i/ 
