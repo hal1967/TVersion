@@ -25,6 +25,14 @@ Credits (Thanks):
                      how-to-determine-delphi-application-version/1720501   
                                                                            
                                                                            
-Spanish
+<i>Spanish</i>
 
 Esto es parte de un artículo docente escrito en https://www.gavidia.org/tversion-i/ 
+el mismo instruye respecto a "Record, class operator"
+
+<b>Resumen</b>
+
+En estos momentos tenemos un record de nombre <b>Tversion</b> con un conjunto de campos superpuestos (ver64 superpuesto a vMayor, vMenor, Release y Build). Además contamos con un conjunto de operadores de comparación que nos permite <, >, = y otros que hemos agregado para tener el juego completo. Y por último nuestra estructura acepta que le asignemos un string o lo expresemos como uno según requiramos.
+
+Además un constructor que recibe los cuatro valores de la versión.
+
