@@ -1,7 +1,7 @@
 # TVersion
-Delphi Unit in order to get fileversion info from exe file (windows). 
+Delphi Unit in order to get <b>fileversion</b> info from exe file (windows). 
 
-File:       VersionUnit.pas                                                
+File:       <b>VersionUnit.pas</b>                                                
 Function:   TVersion implementation, record than drives Version exe file   
             information. Bring 2 additional functions in order to          
             get version info from exe file or resources                    
