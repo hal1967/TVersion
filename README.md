@@ -6,9 +6,9 @@ Function:   TVersion implementation, record than drives Version exe file
             information. Bring 2 additional functions in order to          
             get version info from exe file or resources                    
                                                                            
-Español     TVersion: registro para manejar la informacion de version de   
+Español     TVersion: registro para manejar la informacion de versión de   
             los archivos ejecutables. Además un par de funciones para      
-            obtener esta infromacion via archivo de recuros y por          
+            obtener esta información via archivo de recursos y por          
             llamada al api de windows.                                     
                                                                            
 Language:   Delphi version XE2 or later                                    
